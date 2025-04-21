@@ -248,7 +248,7 @@ We performed **randomized grid search** using `RandomizedSearchCV` to optimize t
 - **MAE**: 2164.37  
 - **R² Score**: 0.853
 
-## 📁 CSV Files
+## CSV Files
 
 ### `healthinsurance.csv`
 - Original dataset sourced in a Kaggle-style format
