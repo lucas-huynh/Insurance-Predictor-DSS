@@ -82,6 +82,8 @@ USER_CREDENTIALS = {
 }
 ```
 
+![Login Screen](images/login.png)
+
 ---
 
 ### App Overview
@@ -96,18 +98,24 @@ Once logged in, you'll see three navigable pages in the sidebar:
   - Provides an automatic, interpretable summary for healthcare providers.
 - The patient is **automatically added** to the backend database upon prediction.
 
+![Prediction](images/prediction.png)
+
 #### 2. **Descriptive Analytics Page**
 - Explore visual insights that update dynamically as patients are added/removed.
 - Filter by:
   - Smoking status
   - Geographic region
   - Age bins (e.g., <30, 30–50, >50)
+ 
+![Analytics](images/analytics.png)
 
 #### 3. **Patient Database Page**
 - View a full table of patient records.
 - Add new patients with required details.
 - Delete patients using their unique `Patient ID`.
 - Each patient receives an **automatically generated UUID** to maintain confidentiality.
+
+![Patient Database](images/patients.png)
 
 ---
 
