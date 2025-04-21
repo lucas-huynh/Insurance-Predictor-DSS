@@ -48,6 +48,7 @@ Use pip to install all required packages:
 
 ```bash
 pip install pandas seaborn matplotlib numpy scipy scikit-learn joblib shap streamlit sqlalchemy
+```
 
 **Note**: csv, time, math, os, uuid, and datetime are part of Python's standard library.
 
